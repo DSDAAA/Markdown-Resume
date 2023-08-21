@@ -16,7 +16,7 @@
 
 * 熟练使用 JAVA，了解 C++、JavaScript 等编程语言
 * 掌握基础数据结构和算法的基本原理
-* 掌握SSM相关，SpringBoot，Redis，mysql
+* 掌握Java基础和集合的相关知识，了解常见的设计模式
 
 ## 项目经历
 
